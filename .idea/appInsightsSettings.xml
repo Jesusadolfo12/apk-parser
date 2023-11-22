@@ -3,22 +3,22 @@
   <component name="AppInsightsSettings">
     <option name="tabSettings">
       <map>
-        <entry key="Android Vitals">
+        <entry key="Androi>
           <value>
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="com.lb.app_manager" />
+                  <option name="app" value="" />
                 </ConnectionSetting>
               </option>
               <option name="failureTypes">
                 <list>
-                  <option value="FATAL" />
+                  <option value="" />
                 </list>
               </option>
-              <option name="signal" value="SIGNAL_UNSPECIFIED" />
-              <option name="timeIntervalDays" value="SEVEN_DAYS" />
-              <option name="visibilityType" value="ALL" />
+              <option name="signal" value="" />
+              <option name="=" />
+              <option name=
             </InsightsFilterSettings>
           </value>
         </entry>
@@ -27,15 +27,15 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="" />
+                  <option name="" value="" />
+                  <option name= value="" />
+                  <option name=" value="" />
                 </ConnectionSetting>
               </option>
-              <option name="signal" value="SIGNAL_UNSPECIFIED" />
-              <option name="timeIntervalDays" value="THIRTY_DAYS" />
-              <option name="visibilityType" value="ALL" />
+              <option name="signal"  />
+              <option name="" value=" />
+              <option name=" value="ALL" />
             </InsightsFilterSettings>
           </value>
         </entry>
